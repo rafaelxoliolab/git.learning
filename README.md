@@ -1,5 +1,5 @@
-# Learnin Git
-Project to learn Git
+# Learning Git
+Project to learn how to use Git
 
 
 ## HOW TO USE GIT ON DEVOPS
