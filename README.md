@@ -1,24 +1,10 @@
 # Learning Git
 Project to learn how to use Git
 
+## Installation
+The first step to start using Git is the installation, you can download the installer from the Official Site
+[Download](https://gitforwindows.org/) 
 
-## HOW TO USE GIT ON DEVOPS
-### Prerequisites
-- To have an Azure DevOps account
-
-```
-Verify Status
-$ git status
-
-Add changes
-$ git add .
-
-Commit changes
-$ git commit -m 'Message'
-
-Push changes
-$ git push
-```
 
 ### How to setup User and Password
 
@@ -54,3 +40,19 @@ To check the inputs
 $ git config --list --show-origin
 ```
 ![image](https://github.com/rafaelxoliolab/git.learning/assets/63336526/2ea537ec-ece6-4855-baef-08fe8b36b125)
+
+
+### How to do a Push to remote repositories
+```
+Verify Status
+$ git status
+
+Add changes
+$ git add .
+
+Commit changes
+$ git commit -m 'Message'
+
+Push changes
+$ git push
+```
