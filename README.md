@@ -42,7 +42,7 @@ $ git config --list --show-origin
 ![image](https://github.com/rafaelxoliolab/git.learning/assets/63336526/2ea537ec-ece6-4855-baef-08fe8b36b125)
 
 
-### How to do a Push to remote repositories
+### How to Push changes to remote repositories
 ```
 Verify Status
 $ git status
