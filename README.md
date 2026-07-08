@@ -58,7 +58,7 @@ $ git config --list --show-origin
 To clone a remote repo you only need to run the clone command following next sintaxys:
 $ git clone [repo URL]
 ```
-<img width="820" height="141" alt="image" src="https://github.com/user-attachments/assets/4545d227-10f2-4613-a18e-cf23d842b3c6" />
+<img width="820" height="141" alt="image" src="https://github.com/user-attachments/assets/1fe89d75-0add-4273-a371-ad5bc95ce3d2" />
 
 
 ### How to Push changes to remote repositories
