@@ -1,9 +1,20 @@
 # Learning Git
-Project to learn how to use Git
+Project to learn how to use Git for Windows
+By Rafael Xolio
 
 ## Installation
 The first step to start using Git is the installation, you can download the installer from the Official Site
 [Download](https://gitforwindows.org/) 
+
+<img width="1041" height="677" alt="image" src="https://github.com/user-attachments/assets/ea951c75-1c5f-4272-9744-fbf4fb564d70" />
+
+<img width="802" height="617" alt="image" src="https://github.com/user-attachments/assets/812969b0-d954-4c8d-96bd-efb417849550" />
+
+<img width="792" height="617" alt="image" src="https://github.com/user-attachments/assets/279160ce-5236-4d17-926e-ff785d50291d" />
+
+<img width="792" height="616" alt="image" src="https://github.com/user-attachments/assets/d04398b6-d404-4590-af63-51f7f55764be" />
+
+<img width="922" height="502" alt="image" src="https://github.com/user-attachments/assets/097598d1-2035-4dbd-97c0-173fe5a45cd7" />
 
 
 ### How to setup User and Password
